@@ -1,0 +1,3 @@
+Example 5 from Andrew Ng's Machine Learning course.  Added Sci-kit learn routines and a plot of
+polynomial regression for order 2 through 8 with Scikit-Learn Polynomial Regression.
+Matches results from class.
